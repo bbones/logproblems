@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "JSON backend",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JSON",
+    "api"
+  ],
+  "author": "Valentin Pogrebinsky",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
+}
